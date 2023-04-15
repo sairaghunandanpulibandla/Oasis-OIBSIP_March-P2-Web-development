@@ -2,11 +2,11 @@
 This repository is created for my task submissions of OASIS INFOBYTE Web development Internship.
 ### I have complete 3 tasks from level 1 in Web development domain:
 
-- [Task 1 - Landing Page](http://127.0.0.1:5500/Task-1%20Landing%20Page/Landing%20page.html)
+- [Task 1 - Landing Page](https://sairaghunandanpulibandla.github.io/Oasis-OIBSIP_March-P2-Web-development/Task-1%20Landing%20Page/Landing%20page.html)
 
-- [Task 2 - Portfolio Website](http://127.0.0.1:5500/Task-2%20Portfolio/Portfolio.html)
+- [Task 2 - Portfolio Website](https://sairaghunandanpulibandla.github.io/Oasis-OIBSIP_March-P2-Web-development/Task-2%20Portfolio/Portfolio.html)
 
-- [Task 3 - Temperature Converter](http://127.0.0.1:5500/Task-3%20Temperature%20Converter%20Website/Temperature_Converter.html)
+- [Task 3 - Temperature Converter](https://sairaghunandanpulibandla.github.io/Oasis-OIBSIP_March-P2-Web-development/Task-3%20Temperature%20Converter%20Website/Temperature_Converter.html)
 
 ``` 
 - If links are dead please let me know!
